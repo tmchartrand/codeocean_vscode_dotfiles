@@ -142,4 +142,5 @@
     "go-template.patterns": [
         "**/*.tmpl"
     ],
+    "github-authentication.preferDeviceCodeFlow": true,
 }
