@@ -3,5 +3,6 @@
     "workbench.startupEditor": "none",
     "explorer.confirmDragAndDrop": false,
     "inlineChat.enableV2": true,
-    "inlineChat.notebookAgent": true
+    "inlineChat.notebookAgent": true,
+    "chat.emptyState.history.enabled": true
 }
