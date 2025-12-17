@@ -1,5 +1,7 @@
 {
     "workbench.colorTheme": "Default Dark+",
     "workbench.startupEditor": "none",
-    "explorer.confirmDragAndDrop": false
+    "explorer.confirmDragAndDrop": false,
+    "inlineChat.enableV2": true,
+    "inlineChat.notebookAgent": true
 }
