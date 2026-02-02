@@ -145,4 +145,6 @@
     "chat.useAgentSkills": true,
     "chat.useNestedAgentsMdFiles": true,
     "inlineChat.notebookAgent": true,
+    "github.copilot.chat.customAgents.showOrganizationAndEnterpriseAgents": true,
+    "github.copilot.chat.generateTests.codeLens": true,
 }
