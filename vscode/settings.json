@@ -147,4 +147,7 @@
     "inlineChat.notebookAgent": true,
     "github.copilot.chat.customAgents.showOrganizationAndEnterpriseAgents": true,
     "github.copilot.chat.generateTests.codeLens": true,
+    "github.copilot.chat.newWorkspace.useContext7": true,
+    "github.copilot.chat.notebook.enhancedNextEditSuggestions.enabled": true,
+    "github.copilot.chat.notebook.followCellExecution.enabled": true,
 }
