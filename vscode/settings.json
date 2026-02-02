@@ -120,13 +120,6 @@
     "docker.host": "unix:///run/user/17884/podman/podman.sock",
     "docker.composeCommand": "podman-compose",
     "git.openRepositoryInParentFolders": "never",
-    "github.copilot.enable": {
-        "*": true,
-        "plaintext": false,
-        "markdown": false,
-        "scminput": false,
-        "python": true
-    },
     "github.copilot.nextEditSuggestions.enabled": true,
     "jupyter.kernels.excludePythonEnvironments": [
         "/bin/python",
@@ -136,12 +129,6 @@
     "git.requireGitUserConfig": false,
     "python.terminal.activateEnvInCurrentTerminal": true,
     "git.blame.statusBarItem.enabled": true,
-    "go-template.languages": [
-        ""
-    ],
-    "go-template.patterns": [
-        "**/*.tmpl"
-    ],
     "chat.useAgentSkills": true,
     "chat.useNestedAgentsMdFiles": true,
     "inlineChat.notebookAgent": true,
