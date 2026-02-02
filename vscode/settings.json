@@ -137,4 +137,5 @@
     "github.copilot.chat.newWorkspace.useContext7": true,
     "github.copilot.chat.notebook.enhancedNextEditSuggestions.enabled": true,
     "github.copilot.chat.notebook.followCellExecution.enabled": true,
+    "chat.viewSessions.orientation": "stacked",
 }
