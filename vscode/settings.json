@@ -140,4 +140,12 @@
     "github.copilot.chat.notebook.enhancedNextEditSuggestions.enabled": true,
     "github.copilot.chat.notebook.followCellExecution.enabled": true,
     "chat.viewSessions.orientation": "stacked",
+    "chat.tools.terminal.autoApprove": {
+        "git mv": true
+    },
+    "syncing.excludedExtensions": [
+        "*"
+    ],
+    "syncSettings.crons": {},
+    "task.allowAutomaticTasks": "on",
 }
