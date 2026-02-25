@@ -4,7 +4,7 @@
     "version": "2.0.0",
     "tasks": [
         {
-            "label": "chezmoi sync task",
+            "label": "chezmoi background sync",
             "type": "shell",
             "command": "( while true; do chezmoi re-add; sleep 60; done )",
             "isBackground": true,
