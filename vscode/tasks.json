@@ -12,6 +12,9 @@
             "runOptions": {
                 "runOn": "folderOpen"
             },
+            "options": {
+                "env": {"GIT_ASKPASS": }
+            },
             "presentation": {
                 "panel": "new",
                 "reveal": "never"
