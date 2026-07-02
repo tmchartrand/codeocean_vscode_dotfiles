@@ -22,5 +22,6 @@
         "scratch/**"
     ],
     "basedpyright.analysis.typeCheckingMode": "off",
-    "python.languageServer": "None"
+    "python.languageServer": "None",
+    "task.allowAutomaticTasks": "on"
 }
