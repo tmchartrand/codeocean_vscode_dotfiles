@@ -13,7 +13,7 @@
                 "runOn": "folderOpen"
             },
             "options": {
-                "env": {"GIT_ASKPASS": "${env:GIT_ACCESS_TOKEN}"}
+                "env": {"GIT_ASKPASS": "{env:GIT_ACCESS_TOKEN}"}
             },
             "presentation": {
                 "panel": "new",
