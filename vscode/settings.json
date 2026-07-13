@@ -23,5 +23,6 @@
     ],
     "basedpyright.analysis.typeCheckingMode": "off",
     "python.languageServer": "None",
-    "task.allowAutomaticTasks": "on"
+    "task.allowAutomaticTasks": "on",
+    "chat.viewSessions.orientation": "stacked"
 }
