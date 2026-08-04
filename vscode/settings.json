@@ -25,6 +25,5 @@
     "python.languageServer": "None",
     "task.allowAutomaticTasks": "on",
     "notebook.diff.ignoreMetadata": true,
-    "chat.viewSessions.orientation": "stacked",
     "chat.agent.sandbox.enabled": "on"
 }
