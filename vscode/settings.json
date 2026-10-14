@@ -148,5 +148,6 @@
     ],
     "syncSettings.crons": {},
     "task.allowAutomaticTasks": "on",
-    "editor.fontFamily": "De",
+    "editor.fontFamily": "DejaVu Sans Mono Regular",
+    "terminal.integrated.fontFamily": "monospace",
 }
