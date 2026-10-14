@@ -150,4 +150,5 @@
     "task.allowAutomaticTasks": "on",
     "editor.fontFamily": "DejaVu Sans Mono Regular",
     "terminal.integrated.fontFamily": "monospace",
+    "window.zoomLevel": 0.5,
 }
