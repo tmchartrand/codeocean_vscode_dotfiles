@@ -148,4 +148,5 @@
     ],
     "syncSettings.crons": {},
     "task.allowAutomaticTasks": "on",
+    "editor.fontFamily": "De",
 }
