@@ -90,7 +90,7 @@
     "settingsSync.ignoredSettings": [
         "update.mode"
     ],
-    "workbench.colorTheme": "Default Dark Modern",
+    "workbench.colorTheme": "Dark Modern",
     "workbench.startupEditor": "none",
     // specifics for r/radian config",
     "r.bracketedPaste": true,
