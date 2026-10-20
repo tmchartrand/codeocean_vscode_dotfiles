@@ -152,4 +152,5 @@
     "terminal.integrated.fontFamily": "monospace",
     "window.zoomLevel": 0.5,
     "chat.agent.sandbox.enabled": "on",
+    "chat.agent.sandbox.fileSystem.userConfiguredPaths": {},
 }
