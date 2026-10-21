@@ -153,4 +153,7 @@
     "window.zoomLevel": 0.5,
     "chat.agent.sandbox.enabled": "on",
     "chat.agent.sandbox.fileSystem.userConfiguredPaths": {},
+    "github.copilot.enable": {
+        "markdown": true
+    },
 }
