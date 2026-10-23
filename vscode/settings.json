@@ -33,7 +33,7 @@
     "explorer.confirmDragAndDrop": false,
     "explorer.fileNesting.enabled": true,
     "explorer.sortOrder": "type",
-    "extensions.ignoreRecommendations": false,
+    "extensions.ignoreRecommendations": true,
     "files.exclude": {
         "**/__pycache__": true,
         "**/.bamboo": true,
