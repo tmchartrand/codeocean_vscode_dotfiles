@@ -155,4 +155,5 @@
     "github.copilot.enable": {
         "markdown": true
     },
+    "chat.viewSessions.orientation": "stacked",
 }
