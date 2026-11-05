@@ -165,6 +165,10 @@
         "https://morphology.allenneuraldynamics.org": {
             "approveRequest": true,
             "approveResponse": false
+        },
+        "https://data.allenneuraldynamics.org": {
+            "approveRequest": true,
+            "approveResponse": false
         }
     },
 }
