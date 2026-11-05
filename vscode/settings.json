@@ -161,6 +161,10 @@
         "https://aind-neuron-morphology-community-portal-prod-o5171v.s3.amazonaws.com": {
             "approveRequest": true,
             "approveResponse": false
+        },
+        "https://morphology.allenneuraldynamics.org": {
+            "approveRequest": true,
+            "approveResponse": false
         }
     },
 }
