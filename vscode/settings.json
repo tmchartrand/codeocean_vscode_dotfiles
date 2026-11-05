@@ -157,4 +157,10 @@
     },
     "chat.viewSessions.orientation": "stacked",
     "chat.copilot.dynamicAutoTiers.enabled": false,
+    "chat.tools.urls.autoApprove": {
+        "https://aind-neuron-morphology-community-portal-prod-o5171v.s3.amazonaws.com": {
+            "approveRequest": true,
+            "approveResponse": false
+        }
+    },
 }
